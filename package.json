@@ -41,7 +41,7 @@
     "@types/jest": "^26.0.19",
     "i18next-scanner": "^2.11.0",
     "sinon-chrome": "^3.0.1",
-    "stylelint": "^13.8.0",
+    "stylelint": "^15.10.1",
     "stylelint-config-recommended": "^3.0.0",
     "stylelint-config-styled-components": "^0.1.1"
   },
